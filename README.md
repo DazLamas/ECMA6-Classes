@@ -4,7 +4,7 @@ Just to practice with **ECMA 6** classes and modules...
 
 ### Set up
 
-You'd need a local server if you want to run it on your computer:
+A local server is required to run it on your computer:
 
 ```
 $ npm install http-server -g
